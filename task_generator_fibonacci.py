@@ -5,6 +5,7 @@ def fibonacci(number):
         yield i 
         i, k = k, i + k 
  
-for n in fibonacci(10): 
-   print (n) 
+ 
+#for n in fibonacci(10): 
+   #print (n) 
 
